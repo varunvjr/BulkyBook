@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWMJ96IePsUWa9o/rzVxSjQAAAAACAAAAAAAQZgAAAAEAACAAAADHx4j+HvjG78r0R9pW/KUeZ5mo4x+TNZoC2duYRnWSeQAAAAAOgAAAAAIAACAAAADv5qhPZVjOfAx8IKENIiFBBqTBht8Tf6QRJGVpuGFw7IAAAABQIdyD6pP6cnaFx+LYI0h1etm2/Z6JDmcLXkF3txlCDF8+YHIknAP8t5XZH1RO5rd5TT2/RIlmzhKgRk4taoP8n5xoKY/W520ASiCOO8hxn/wKbmM5P23Z0GJl23Ns4sbv0spI3EGRH/fUHSu8QGzJxIzlcs+LUiyFlcnOAVtk7EAAAACe6UzcIBaqqDSC3DbiGqajoC1I5u+syPu4DViR4ug2F4NLlreMbsTVJsVTGA8C0UDJvhrj2Gqb/5CnKt0GwjHU</EncryptedPassword>
+    <History>True|2023-07-01T20:59:57.3607795Z;True|2023-07-01T13:51:32.9726955-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:bulkybookcourse.database.windows.net,1433%3bInitial Catalog=bulkybook_db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Intern%40sde123%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
